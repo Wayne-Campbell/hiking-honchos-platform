@@ -21,5 +21,5 @@ ENV PATH="/opt/venv/bin:$PATH"
 
 COPY . .
 
-CMD ["node", "src/index.js"]
+CMD []
 
